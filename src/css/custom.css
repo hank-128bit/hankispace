@@ -1,0 +1,22 @@
+.vertical_element {
+    margin-top: 25px;
+}
+
+.top_logo {
+    width: 142px;
+    height: 28px;
+    min-width: 121px;
+    min-height: 24px;
+    margin-top: 4px;
+    margin-left: 4px;
+}
+
+.nav {
+    height: 40px;
+    min-height: 34px;
+    background: cadetblue;
+}
+
+.main_lbl {
+    display: inline;
+}
